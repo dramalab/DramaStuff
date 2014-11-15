@@ -27,3 +27,10 @@ Session 2
 Session 3
 --------
 *	Demo code on how to build a capacitive sensor withoud additional hardware
+
+Session 4
+--------
+* http://dramalab.unibz.it/hacking-sessions-hack-a-lamp/
+* Introduction to Arduino hardware and IDE
+* Working with relays to control lamps
+* Working with sensors
