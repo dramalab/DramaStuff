@@ -34,3 +34,18 @@ Session 4
 * Introduction to Arduino hardware and IDE
 * Working with relays to control lamps
 * Working with sensors
+
+Session 5
+--------
+* http://dramalab.unibz.it/hacking-sessions-2-hack-bongo/
+* Working with servos to create movement and sound
+* Working with sensors (LDR, temperature, distance, ...)
+
+Session 6
+--------
+* http://dramalab.unibz.it/hacking-sessions-3-hack-projector-06-12-14/
+* Introduction to Processing
+* Display Images and Videos
+* Build a simple video player with Arduino and Processing
+* Control color with LDRs and Processing
+* Manipulate and display images based on Arduino input data
