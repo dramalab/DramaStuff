@@ -13,9 +13,9 @@
  *
  */
 
-
+#include <SoftwareSerial.h>
 #include "Ultrasonic.h"
-Ultrasonic ultrasonic(2,3);
+Ultrasonic ultrasonic(3);
 
 void setup() {
   Serial.begin(9600);
@@ -23,7 +23,8 @@ void setup() {
 
 void loop()
 {
-  Serial.print(ultrasonic.Ranging(CM)); // change to INC for inch insteat of cm
+  ultrasonic.MeasureInCentimeters();
+  Serial.print(ultrasonic.RangeInCentimeters);
   Serial.println("cm");
     
   delay(1000);

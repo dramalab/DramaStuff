@@ -1,6 +1,6 @@
-int redPin = 11;
-int greenPin = 10;
-int bluePin = 9;
+int redPin = 9;
+int greenPin = 11;
+int bluePin = 10;
  
 //uncomment this line if using a Common Anode LED
 //#define COMMON_ANODE
