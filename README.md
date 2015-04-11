@@ -76,3 +76,14 @@ Session 9
 * building a small audio-amplifier
 * using mp3-Shields
 * playing sound with Processing and send commands from Arduino
+
+Session 10
+----------
+* http://dramalab.unibz.it/hacking-sessions-3-2015-communication-is-in-the-air/
+* working with capacitive sensors (Cap1188 Sensor Shield)
+* working with Bluetooth
+* control Leds over Bluetooth from different devices (Laptop, Tablet, Smartphones)
+* control RGB Led using Processing and Bluetooth
+* Wireless communication with 2.4GHz 
+* Wireless chat application between Arduinos
+* Send sensor values over wireless network
