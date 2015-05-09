@@ -1,8 +1,13 @@
 DramaStuff
 ==========
 
-All the sourcefiles produced during the saturdays sessions and useful things (slides, libraries, ...).
-Here is a list of things you can find in the corresponding folders.
+The laboratory is a playground for design and development of innovative devices and spaces, which people (inter)act with in daily life. It is centered around user experience in physical environments. The DRAMA LÄB is a cross-fertilization between the Faculties of Computer Science and of Design and Art in Free University of Bozen-Bolzano (South Tyrol, Italy)
+
+It is born out of the opportunity to combine the expertise from diverse fields, which are already present in the University like Interaction and Product Design, Visual Communication, Open Hardware and Software, Human Computer Interaction and User Experience Design, Data and Knowledge Engineering.
+
+The lab is a shared space, where students and researchers from design and from computer science meet, discuss each others work, collaborate or simply inspire and learn from each other. It is the breeding ground for interdisciplinary collaboration and innovation.
+
+The DRAMA LÄB houses playful experiments, workshops and courses with researchers, students, children and adults at all ages. It opens future perspectives for collaborations with other actors and initiatives, like the Technology Park, institutions and companies in the Euregio and beyond.
 
 Session 1
 --------
@@ -87,3 +92,16 @@ Session 10
 * Wireless communication with 2.4GHz 
 * Wireless chat application between Arduinos
 * Send sensor values over wireless network
+
+Session 11
+----------
+* http://dramalab.unibz.it/hacking-sessions-4-2015-control-is-in-the-air/
+* working with displays (16x2 characters and GLCD)
+* controlling a remote servo over bluetooth and 2.4Ghz
+
+Session 12
+----------
+* http://dramalab.unibz.it/hacking-sessions-5-2015-track-me-if-you-can/
+* we will analyze and work with GPS sensors
+* "reverse" geocache: we will try to find a spot in Bolzano, guided by a changing audio signal.
+
